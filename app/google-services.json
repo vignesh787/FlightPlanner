@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "749213558915",
+    "firebase_url": "https://samplefp-61fba.firebaseio.com",
+    "project_id": "samplefp-61fba",
+    "storage_bucket": "samplefp-61fba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:749213558915:android:bcad7e90b18cd23e",
+        "android_client_info": {
+          "package_name": "bits.project.com.flightplanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "749213558915-gnj9eklggjkrem1lpq34as47a22sfd68.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATMgb67WUjsZZKVEZ_-Km1WjZ3oqnRtV4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
